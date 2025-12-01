@@ -1,3 +1,2 @@
-VSCocde
-View
-Iniciar la máquina virtual Linux
+git clone <URL_DEL_REPOSITORIO>
+cd <nombre_del_repositorio>
